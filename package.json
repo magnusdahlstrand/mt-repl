@@ -1,0 +1,16 @@
+{
+  "name": "mt-repl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magnus Dahlstrand",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "ytdl-core": "^0.14.0"
+  }
+}
